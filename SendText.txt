@@ -1,0 +1,10 @@
+Hi [NAME],
+
+I came across your job post for [TITLE] in [LOCATION] and found it really interesting. I'd love to be considered for this role.
+
+Here’s the job link: [JOBURL]
+
+Looking forward to hearing from you!
+
+Best regards,
+[Your Name]
